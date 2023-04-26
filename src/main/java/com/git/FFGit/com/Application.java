@@ -10,7 +10,9 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		System.out.println("good morning");
 		System.out.println("Night....");
+
 		System.out.println("conflit rised");
+
 	}
 
 }
